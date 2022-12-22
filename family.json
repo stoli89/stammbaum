@@ -1,11 +1,11 @@
 {"born": 1919, "firstname": "", "children": [
     {"born": 1943, "firstname": "Simplice"},
     {"born": 1944, "firstname": "Marguerite", "children": [
-        {"born": 1979, "firstname": "Mira","spouse": "test2"},
+        {"born": 1979, "firstname": "Mira"},
         {"born": 1985, "firstname": "Charles"}
     ]},
     {"born": 1945, "firstname": "Honoré"},
-    {"born": 1947, "firstname": "Jeanne d'Arc", "spouse": "test3", "children": [
+    {"born": 1947, "firstname": "Jeanne d'Arc", "children": [
         {"born": 1967, "firstname": "Hyacinte", "children": [
             {"born": 1988, "firstname": "Landon"},
             {"born": 1992, "firstname": "Braden"},
