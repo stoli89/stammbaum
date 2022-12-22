@@ -5,7 +5,7 @@
         {"born": 1985, "firstname": "Charles"}
     ]},
     {"born": 1945, "firstname": "Honoré"},
-    {"born": 1947, "firstname": "Mann, Frau", "children": [
+    {"born": 1947, "firstname": "Mann\nFrau", "children": [
         {"born": 1967, "firstname": "Hyacinte", "children": [
             {"born": 1988, "firstname": "Landon"},
             {"born": 1992, "firstname": "Braden"},
